@@ -1,0 +1,27 @@
+<h1>Functional Requirements</h1>
+Requirements, which are related to functional aspect of software fall into this category.
+
+They define functions and functionality within and from the software system.
+
+EXAMPLES -
+Search option given to user to search from various invoices.
+User should be able to mail any report to management.
+Users can be divided into groups and groups can be given separate rights.
+Should comply business rules and administrative functions.
+Software is developed keeping downward compatibility intact.
+
+<h1>Non-Functional Requirements</h1>
+Requirements, which are not related to functional aspect of software, fall into this category. They are implicit or expected characteristics of software, which users make assumption of.
+
+Non-functional requirements include -
+
+Security
+Logging
+Storage
+Configuration
+Performance
+Cost
+Interoperability
+Flexibility
+Disaster recovery
+Accessibility
